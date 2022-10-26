@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Beligolli
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Automation in SQL and PowerBI
-- 💞️ I’m looking to collaborate on Basic Things
+- 🌱 I’m allways digging deep in SQL, Python and PowerBI
 - 📫 How to reach me send me an Email! (beligolli@hotmail.com)
 
 <!---
